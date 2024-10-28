@@ -7,6 +7,7 @@ This project is a Python-based GUI application for encrypting and decrypting mes
 
 
 
+
 ## Features
 
 - **AES Encryption and Decryption**: Securely encrypt and decrypt messages.
