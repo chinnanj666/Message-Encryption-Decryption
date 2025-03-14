@@ -15,3 +15,4 @@ This project is a Python-based GUI application for encrypting and decrypting mes
 - **Progress Indication**: Visual feedback during encryption and decryption.
 - **Help Menu**: Instructions on how to use the application.
 
+   
