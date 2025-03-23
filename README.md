@@ -13,5 +13,3 @@ This project is a Python-based GUI application for encrypting and decrypting mes
 - **Save and Load**: Save encrypted messages to a file and load them when needed.
 - **Progress Indication**: Visual feedback during encryption and decryption.
 - **Help Menu**: Instructions on how to use the application.
-
-   
