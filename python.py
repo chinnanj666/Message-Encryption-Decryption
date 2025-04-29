@@ -5,7 +5,6 @@ from Crypto.Random import get_random_bytes
 import base64
 import threading
 
-# Function to pad the plaintext to be a multiple of AES block size (16 bytes)
 def pad(text):
     while len(text) % 16 != 0:
         text += ' '
