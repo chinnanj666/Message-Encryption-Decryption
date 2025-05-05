@@ -1,4 +1,3 @@
-
 ## Message Encryption and Decryption App
 This project is a Python-based GUI application for encrypting and decrypting messages using AES encryption. It features a Tkinter-based interface for easy interaction and includes functionalities such as selecting key sizes, saving and loading encrypted messages, and displaying progress during encryption and decryption.   
 
