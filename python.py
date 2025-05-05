@@ -9,7 +9,6 @@ def pad(text):
     while len(text) % 16 != 0:
         text += ' '
     return text
-#use 
 # Function to unpad the plaintext
 def unpad(text):
     return text.rstrip()
